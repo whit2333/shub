@@ -3,7 +3,7 @@ From:ubuntu:latest
 
 %labels
 MAINTAINER Derp
-SPECIES Butt
+SPECIES butt
 
 %environment
 RAWR_BASE=/code
